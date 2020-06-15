@@ -1,0 +1,13 @@
+C:\Users\aalima5\Desktop\Code C#\ConversaoStringParaEnumeracao\ConversaoStringParaEnumeracao\bin\Debug\netcoreapp3.1\ConversaoStringParaEnumeracao.exe
+C:\Users\aalima5\Desktop\Code C#\ConversaoStringParaEnumeracao\ConversaoStringParaEnumeracao\bin\Debug\netcoreapp3.1\ConversaoStringParaEnumeracao.deps.json
+C:\Users\aalima5\Desktop\Code C#\ConversaoStringParaEnumeracao\ConversaoStringParaEnumeracao\bin\Debug\netcoreapp3.1\ConversaoStringParaEnumeracao.runtimeconfig.json
+C:\Users\aalima5\Desktop\Code C#\ConversaoStringParaEnumeracao\ConversaoStringParaEnumeracao\bin\Debug\netcoreapp3.1\ConversaoStringParaEnumeracao.runtimeconfig.dev.json
+C:\Users\aalima5\Desktop\Code C#\ConversaoStringParaEnumeracao\ConversaoStringParaEnumeracao\bin\Debug\netcoreapp3.1\ConversaoStringParaEnumeracao.dll
+C:\Users\aalima5\Desktop\Code C#\ConversaoStringParaEnumeracao\ConversaoStringParaEnumeracao\bin\Debug\netcoreapp3.1\ConversaoStringParaEnumeracao.pdb
+C:\Users\aalima5\Desktop\Code C#\ConversaoStringParaEnumeracao\ConversaoStringParaEnumeracao\obj\Debug\netcoreapp3.1\ConversaoStringParaEnumeracao.csprojAssemblyReference.cache
+C:\Users\aalima5\Desktop\Code C#\ConversaoStringParaEnumeracao\ConversaoStringParaEnumeracao\obj\Debug\netcoreapp3.1\ConversaoStringParaEnumeracao.csproj.CoreCompileInputs.cache
+C:\Users\aalima5\Desktop\Code C#\ConversaoStringParaEnumeracao\ConversaoStringParaEnumeracao\obj\Debug\netcoreapp3.1\ConversaoStringParaEnumeracao.AssemblyInfoInputs.cache
+C:\Users\aalima5\Desktop\Code C#\ConversaoStringParaEnumeracao\ConversaoStringParaEnumeracao\obj\Debug\netcoreapp3.1\ConversaoStringParaEnumeracao.AssemblyInfo.cs
+C:\Users\aalima5\Desktop\Code C#\ConversaoStringParaEnumeracao\ConversaoStringParaEnumeracao\obj\Debug\netcoreapp3.1\ConversaoStringParaEnumeracao.dll
+C:\Users\aalima5\Desktop\Code C#\ConversaoStringParaEnumeracao\ConversaoStringParaEnumeracao\obj\Debug\netcoreapp3.1\ConversaoStringParaEnumeracao.pdb
+C:\Users\aalima5\Desktop\Code C#\ConversaoStringParaEnumeracao\ConversaoStringParaEnumeracao\obj\Debug\netcoreapp3.1\ConversaoStringParaEnumeracao.genruntimeconfig.cache
